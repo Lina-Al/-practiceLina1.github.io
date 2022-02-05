@@ -7,6 +7,8 @@ kzkzkkzkzkzkzk
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+
+[Работа 1](https://docs.google.com/document/d/1Evq3kcyq9MVdGrQDMPPh9YQccdaxlnyUz3lRH6Lxweo/edit)
 ```markdown
 Syntax highlighted code block
 
