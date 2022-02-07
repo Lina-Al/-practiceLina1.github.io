@@ -1,38 +1,16 @@
-## Welcome to GitHub Pages
+## Выполнила Лина Ал-Обайди Моханадовна
 
-You can use the [editor on GitHub](https://github.com/Lina-Al/-practiceLina1.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+В данной практической работе будут размещены работы по первой практике.
+### Задания
 
-kzkzkkzkzkzkzk
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Тема 1.
 
 
 [Работа 1](https://github.com/Lina-Al/-practiceLina1.github.io/blob/gh-pages/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82.pdf)
-```markdown
-Syntax highlighted code block
+[Работа 2]
 
-# Header 1
-## Header 2
-### Header 3
+Тема 2.
 
-- Bulleted
-- List
+```markdohttps://lina-al.github.io/-practiceLina1.github.io/
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lina-Al/-practiceLina1.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
