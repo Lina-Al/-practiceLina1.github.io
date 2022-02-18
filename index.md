@@ -27,7 +27,7 @@
 
 [Работа 1.8](https://github.com/Lina-Al/-practiceLina1.github.io/blob/gh-pages/1.8.docx)
 
-[Работа 1.9](https://github.com/Lina-Al/-practiceLina1.github.io/blob/gh-pages/1.9 (1).docx)
+[Работа 1.9](https://github.com/Lina-Al/-practiceLina1.github.io/blob/gh-pages/1.9%20(1).docx)
 
 Тема 5
 
