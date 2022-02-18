@@ -15,9 +15,9 @@
 
 Тема 3
 
-[Работа 1.4](https://github.com/Lina-Al/-practiceLina1.github.io/1.4.docx at gh-pages)
+[Работа 1.4](https://github.com/Lina-Al/-practiceLina1.github.io/1.4.docx)
 
-[Работа 1.5](https://github.com/Lina-Al/-practiceLina1.github.io/1.5.docx at gh-pages)
+[Работа 1.5](https://github.com/Lina-Al/-practiceLina1.github.io/1.5.docx)
 
 Тема 4
 
