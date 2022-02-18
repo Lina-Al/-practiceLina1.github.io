@@ -5,7 +5,6 @@
 
 Тема 1.
 
-
 [Работа 1.1](-practiceLina1.github.io/1.1.docx at gh-pages · Lina-Al/-practiceLina1.github.io)
 
 [Работа 1.2](-practiceLina1.github.io/1.2.pptx at gh-pages · Lina-Al/-practiceLina1.github.io)
@@ -45,8 +44,3 @@
 [Работа 2.3](-practiceLina1.github.io/2.3.docx at gh-pages · Lina-Al/-practiceLina1.github.io)
 
 [Работа 2.4](-practiceLina1.github.io/2.4.docx at gh-pages · Lina-Al/-practiceLina1.github.io)
-
-
-```markdohttps://lina-al.github.io/-practiceLina1.github.io/
-
-
