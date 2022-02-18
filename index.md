@@ -7,7 +7,7 @@
 
 [Работа 1.1](https://github.com/Lina-Al/-practiceLina1.github.io/blob/gh-pages/1.1.docx)
 
-[Работа 1.2](https://github.com/Lina-Al/-practiceLina1.github.io/1.2.pptx)
+[Работа 1.2](https://github.com/Lina-Al/-practiceLina1.github.io/blob/gh-pages/1.2.pptx)
 
 Тема 2
 
